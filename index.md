@@ -9,7 +9,8 @@ Although we have written up most of the material, you will probably find several
 You too may help make these notes better by submitting your improvements to us via [Github](https://github.com/ermongroup/cs228-notes).
 
 This course starts by introducing probabilistic graphical models from the very basics and concludes by explaining from first principles the [variational auto-encoder](extras/vae), an important probabilistic model that is also one of the most influential recent results in deep learning.
-## Cousera강의를 기반으로 하기 사항에 대하 추가 부연 설명을 적는 것을 목적으로 합니다.
+
+Cousera강의를 기반으로 하기 사항에 대하 추가 부연 설명을 적는 것을 목적으로 합니다.
 1. [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models/home/welcome)
 2. [Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference)
 3. [Probabilistic Graphical Models 3: Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning)    
