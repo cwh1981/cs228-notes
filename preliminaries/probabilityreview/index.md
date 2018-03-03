@@ -431,6 +431,13 @@ Here, the key step in showing the equality of the two forms of covariance is in 
 - If $$X$$ and $$Y$$ are independent, then $$E[f(X)g(Y)] = E[f(X)]E[g(Y)]$$.
 
 
+## 4. Distribution
+
+## 5. Factors(material](http://spark-university.s3.amazonaws.com/stanford-pgm/slides/1.1.3-Intro-factors.pdf))
+Factor의 정의는 가인자이다.
+{% maincolumn 'assets/img/factor-info.PNG' 'G의 값은 모두 g1이므로, 확률의 가인자로는 I, D가 된다'%}
+{% maincolumn 'assets/img/factor-CPD.png' 'I,D에 대하여 G의 확률을 구한 표이다. 이 때, 각 I, D에서 G들의 합은 1이 된다.'%}
+
 <br/>
 
 |[Index](../../) | [Previous](../introduction/) |  [Next](../applications/)|
